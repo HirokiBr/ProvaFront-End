@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #c70505d3;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .banner {
+    background-image: url("Imagens/Festa\ Junina\ anime.jpg");
+    background-size: cover;
+    background-position: fixed;
+    text-align: center;
+    color: #fff;
+    padding: 25%;
+
+  }
+  
+  .content {
+    padding: 50px;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  form label {
+    display: block;
+}
+
+    .form-container{
+        text-align: center;
+        background-color:#a62b2bd3;
+        color: #000000;
+        padding: 10%;
+
+    }
